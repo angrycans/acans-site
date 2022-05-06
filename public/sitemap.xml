@@ -90,6 +90,10 @@
   </url><url>
     <loc>http://example.org/docs/shortcodes/tabs/</loc>
   </url><url>
+    <loc>http://example.org/iot/nodemcu/</loc>
+  </url><url>
     <loc>http://example.org/docs/</loc>
+  </url><url>
+    <loc>http://example.org/iot/</loc>
   </url>
 </urlset>
