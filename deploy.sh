@@ -6,7 +6,7 @@ set -e
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # 构建静态内容
-hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo -t maupassant-hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # 切换到 Public 文件夹
 cd public
