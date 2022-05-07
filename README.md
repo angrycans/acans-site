@@ -2,9 +2,13 @@
 
 hugo server -D
 
-new post
 
-hugo new IOT/nodeMCU_setting.md
+theme
+https://github.com/flysnow-org/maupassant-hugo
+
+
+new post
+hugo new post/nodeMCU_setting.md
 
 
 publish
