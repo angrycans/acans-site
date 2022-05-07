@@ -11,5 +11,10 @@ new post
 hugo new post/nodeMCU_setting.md
 
 
+review 
+hugo server -D
+
+
 publish
-hugo -d docs
+sh ./deploy.sh
+
