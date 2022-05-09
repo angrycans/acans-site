@@ -1,10 +1,16 @@
 # blog_hugo
 
-hugo server -D
+git submodule init
+git submodule update
 
 
 theme
-https://github.com/flysnow-org/maupassant-hugo
+cd themes 
+git clone https://github.com/flysnow-org/maupassant-hugo
+
+find maupassant-hugo
+delete {{ partial "related" . }}
+      {{ partial "footer" . }}  
 
 
 new post

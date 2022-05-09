@@ -20,15 +20,11 @@ summaryLength = 140
   subtitle = "IOT"
   keywords = "IOT"
   description = ""
+  fancybox = true #图片点击放大
   busuanzi = true #启用不算子网页统计
   googleAd = ""  #ca-pub-xxxxxxxxxxxxxx
   localSearch = true # 启用本地搜索
 
-  # 这里我存放在了主题的static文件夹里，根目录的似乎也可以
-  customCSS = ['douban.css', 'other.css']
-  # if ['custom.css'], load '/static/css/custom.css' file
-  customJS = ['douban.js']
-  # if ['custom.js'], load '/static/js/custom.js' file
 
   # 全局开关，你也可以在每一篇内容的 front matter 中针对单篇内容关闭或开启某些功能
   toc = true  # 是否开启目录
@@ -44,12 +40,13 @@ summaryLength = 140
   issueTerm = "pathname"
   theme = "github-light"
 
-
 ## 配置代码高亮
 [markup]
   [markup.highlight]
     lineNos = true
     style = "github"
+
+
 
 ## 配置网站菜单
 
