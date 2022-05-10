@@ -1,10 +1,10 @@
 +++
 title='NodeMCU FirmwareBurn (2)'
-tags=[]
-categories=[]
+tags=["IOT"]
+categories=["IOT"]
 date="2022-05-09T16:11:35+08:00"
 toc=true
-draft=true
+draft=false
 hiddenFromHomePage= false
 +++
 
