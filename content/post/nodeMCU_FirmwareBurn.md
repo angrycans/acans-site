@@ -1,5 +1,5 @@
 +++
-title='NodeMCU FirmwareBurn (2)'
+title='(2) NodeMCU FirmwareBurn lua固件支持'
 tags=["IOT"]
 categories=["IOT"]
 date="2022-05-09T16:11:35+08:00"
@@ -9,7 +9,7 @@ hiddenFromHomePage= false
 +++
 
 
-### 固件烧录
+### nodemcu lua固件烧录
 
 1. 固件下载地址
 https://nodemcu-build.com/
