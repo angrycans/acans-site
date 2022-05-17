@@ -12,7 +12,7 @@ hiddenFromHomePage= false
 ### 使用  VS Code + PlatformIO 开发
 1. 安装vscode 插件 PlatformIO 
 2. 使用PlatformIO 新建一个项目LitteFS
-![](2022-05-17-10-37-57.png)
+![](./example-6/2022-05-17-10-37-57.png)
 3. 修改platformio.ini 为
 ```
 [env:nodemcuv2]
